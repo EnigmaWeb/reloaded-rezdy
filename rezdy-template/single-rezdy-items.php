@@ -25,7 +25,7 @@
                 $rzd_item_link = get_post_meta($post->ID, 'rzd_item_link', true);
             ?>
                 <script type="text/javascript" src="<?php echo RZD_API_LINK; ?>/pluginJs"></script>
-                <iframe seamless="" frameborder="0" width="100%" height="480px" class="rezdy" src="<?php echo RZD_API_LINK; ?>/calendarWidget/<?php echo $rzd_item_link; ?>?iframe=true"></iframe>
+                <iframe seamless="" frameborder="0" width="100%" height="480px" class="rezdy" src="<?php echo RZD_API_LINK; ?>calendarWidget/<?php echo $rzd_item_link; ?>?iframe=true"></iframe>
             </div>
         </div>
         <div id="rzd_cat_list1">
