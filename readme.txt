@@ -3,7 +3,7 @@ Contributors: EnigmaWeb
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEJ9HFWJ94BG4
 Tags: rezdy, rezdy reloaded, bookings, reservations
 Requires at least: 3.1
-Tested up to: 4.4
+Tested up to: 4.8
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -82,10 +82,16 @@ And by popular request... if you would like my help with a more advanced Rezdy I
 
 == Changelog ==
 
+= 1.0.1 =
+* Remove / from Rezdy widget URL
+
 = 1.0 =
 * Initial release
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+* Remove / from Rezdy widget URL - a very small but very important update
 
 = 1.0 =
 * Initial release

@@ -4,7 +4,7 @@
   Plugin URI: http://wordpress.org/plugins/reloaded-rezdy
   Description: Elegant Rezdy integration for WordPress
   Author: EnigmaWeb
-  Version: 1.0
+  Version: 1.0.1
   Author URI: http://enigmaplugins.com
   Text Domain: reloaded-rezdy
   Domain Path: /languages
